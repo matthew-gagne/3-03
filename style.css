@@ -4,15 +4,15 @@
 }
 
 .class1 {
-width: 50%;
- border: 1px solid gray;
- margin: 0;
- color: gray;
- text-align: center;
- top: 0%;
- left: 25%;
- position: fixed;
- background-color: black;
+  width: 50%;
+  border: 1px solid gray;
+  margin: 0;
+  color: gray;
+  text-align: center;
+  top: 0%;
+  left: 25%;
+  position: fixed;
+  background-color: black;
 }
 
 #man {
