@@ -1,0 +1,33 @@
+#id1 {
+  color: gray;
+  background-color: black;
+}
+
+div {
+ 
+}
+
+
+.class1 {
+width: 50%;
+ border: 1px solid gray;
+ margin: 0;
+ color: gray;
+ text-align: center;
+ top: 0%;
+ left: 25%;
+ position: fixed;
+ background-color: black;
+}
+
+#man {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+
+#phish {
+  width: 10%;
+  float: left;
+  padding: 10px;
+}
